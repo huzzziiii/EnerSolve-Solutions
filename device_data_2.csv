@@ -1,0 +1,6 @@
+Location,Device Name,Power Consumption (kWh),Time,Rate (cents/kWh),Hour
+Living Room,Lights,180,12:00,13.2,12
+Bathroom,Dryer,5000,12:00,13.2,12
+Bedroom,Laptop,50,12:00,13.2,12
+Living Room,TV,170,12:00,13.2,12
+Kitchen,Toaster,1400,12:00,13.2,12
